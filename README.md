@@ -53,16 +53,9 @@ Specifically, I:
 
 ## Repository Structure
 
-```
-Driver-Drowsiness-Prediction/
-│
-├── Driver_Drowsiness_Prediction_Report.pdf
-├── README.md
-│
-└── notebooks/
-    ├── regression_ann_model.ipynb
-    └── ppg_preprocessing_feature_extraction.ipynb
-```
+- 📓 [Regression ANN Model](notebooks/regression_ann_model.ipynb)
+- 📓 [PPG Preprocessing & Feature Extraction](notebooks/ppg_preprocessing_feature_extraction.ipynb)
+- 📄 [Project Report](Driver_Drowsiness_Prediction_Report.pdf)
 
 - **regression_ann_model.ipynb**  
   Regression ANN implementation, training, hyperparameter optimization, and evaluation.
@@ -101,7 +94,7 @@ The experiments showed:
 
 The complete IEEE-style project report is available here:
 
-**Driver_Drowsiness_Prediction_Report.pdf**
+[📄 Driver_Drowsiness_Prediction_Report.pdf](Driver_Drowsiness_Prediction_Report.pdf)
 
 ---
 
